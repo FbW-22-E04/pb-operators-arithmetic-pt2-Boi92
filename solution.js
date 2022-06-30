@@ -12,17 +12,16 @@ var happiness = 6 ;
 
 
 console.log('snackServings', snackServings)
-console.log(snackServings)
-console.log('guests')
-console.log(guests)
-console.log('snackServings - guests',)
-console.log(snackServings - guests)
-console.log('guests - snackServings')
-console.log(guests - snackServings)
-console.log('snackServings * guests')
+console.log('guests',guests)
+console.log('snackServings - guests',snackServings - guests)
+
+console.log('guests - snackServings' ,guests - snackServings)
+
+console.log('snackServings * guests',snackServings * guests)
 console.log(snackServings * guests)
 console.log('snackServings / guests')
 console.log(snackServings / guests)
+
 console.log('(snackServings * guests) / drinks')
 console.log((snackServings * guests) / drinks)
 console.log('resultOne')
